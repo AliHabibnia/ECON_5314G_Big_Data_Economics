@@ -1,4 +1,6 @@
 # ECON_5984_Big_Data_Economics
+[![DOI](https://zenodo.org/badge/527669722.svg)](https://doi.org/10.5281/zenodo.18737894)
+
 
 <p>This intermediate applied econometrics course covers the theoretical, computational, and statistical underpinnings of big data analysis. The focus will be the econometric models and machine learning techniques to analyze the high-dimensional data sets a.k.a. “Big Data” and their implications in research focusing on interesting economic questions that arise from considering the rapid changes in data availability and computational technology. Big data econometric models provide a vehicle for modeling and analyzing complex phenomena and for incorporating rich sources of confounding information into economic models. The goal of this course is to give an applied, hands-on introduction to these methods. At the end of the course, students will be able to read and understand theoretical papers on the subject, implement the techniques themselves in Python, and apply the techniques to data used in economics and business. The data sets we will use for this course are from World Bank Group, Kaggle, Federal Reserve Economic Data, Google Finance, and several other resources.</p>
 <p><span lang="EN-US">Pre:  ECON 3254 or ECON 4304 or CMDA 3654 or STAT 3006. (3H, 3C).</span></p>
